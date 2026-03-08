@@ -1,5 +1,3 @@
-# Simple Quiz Program in Python
-
 score = 0
 
 print(" Welcome to today's Quiz \n")
