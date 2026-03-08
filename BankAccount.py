@@ -18,7 +18,6 @@ class BankAccount:
         print(f"Balance for {self.owner}: {self.balance}")
 
 
-# TESTING THE SYSTEM
 acc = BankAccount("Cedric", 200)
 acc.deposit(100)
 acc.withdraw(50)
