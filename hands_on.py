@@ -16,7 +16,8 @@ print()
 capitals = {"USA":"Washington dc",
             "India":"New delhi",
             "China":"New york",
-            "Russia":"Moscow"}
+            "Russia":"Moscow",
+             "Ghana":"Accra"}
 
 print(capitals["Russia"])
 print(capitals.get("YUK"))
@@ -44,7 +45,7 @@ print()
 
 
 def hello(you,name):
-    print("cedric is the best" , you , name)
+    print("Cedric is the best" , you , name)
     print("that's good")
 hello("bro","and so")
 
